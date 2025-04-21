@@ -1,4 +1,4 @@
-💻 Estudante de Front-End | HTML & CSS
+💻 Estudante de Front-End | HTML & CSS<br>
 🎯 Em constante evolução! Estou mergulhando fundo no universo do desenvolvimento front-end, com foco em criar interfaces incríveis e funcionais. Tenho dedicado meu tempo a aprender e praticar HTML e CSS de forma intensa, construindo uma base sólida para projetos cada vez mais desafiadores.
 
 🌱 Prática contínua e crescente: Cada linha de código é uma oportunidade para melhorar, e estou animado com os resultados que estou alcançando. Desde a estruturação simples de páginas até layouts mais complexos, estou sempre buscando novas formas de otimizar e melhorar meu trabalho.
